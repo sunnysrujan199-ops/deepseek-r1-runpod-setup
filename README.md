@@ -20,7 +20,7 @@ RunPod solves this by providing instant cloud GPUs optimized for AI workloads.
 
 Launch a GPU here:
 
-[INSERT_RUNPOD_AFFILIATE_LINK_HERE]
+[https://runpod.io?ref=i1znw01t]
 
 ---
 
